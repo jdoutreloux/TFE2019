@@ -1,0 +1,17 @@
+.myblue{
+    color: white;
+    background-color: #1f506b;
+}
+
+#home{
+    background-image: url('/image/plageVresse.jpg');
+    background-size: cover;
+}
+
+#home h1, p{
+    color: #a61845;
+}
+
+.w3-red{
+    color: #a61845;
+}
